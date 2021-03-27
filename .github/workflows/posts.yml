@@ -1,0 +1,21 @@
+name: Posts Updater
+on:
+  schedule:
+    - cron:  '0 * * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+      - name: git setting
+        run: |
+          git config --local user.email "j02521@gmail.com"
+          git config --local user.name "Ryo Shibayama"
+      - run: php update_recent_posts.php
+      - name: git commit
+        run: |
+          git add README.md
+          git commit -m "update posts"
+          git push origin master
