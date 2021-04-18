@@ -9,6 +9,14 @@
 - ![](platform_icons/speakerdeck.png) [カジュアル面談を通して “自社”のことを知る](https://speakerdeck.com/serima/kaziyuarumian-tan-wotong-site-zi-she-falsekotowozhi-ru) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://speakerdeck.com/serima/kaziyuarumian-tan-wotong-site-zi-she-falsekotowozhi-ru)](https://b.hatena.ne.jp/entry/https://speakerdeck.com/serima/kaziyuarumian-tan-wotong-site-zi-she-falsekotowozhi-ru)
 - ![](platform_icons/note.png) [「GitHubのスター数が多いから良い」と盲目的にライブラリ選定をしていないか胸に手をあてて考える](https://note.com/serima/n/n1a83526c5d5e) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://note.com/serima/n/n1a83526c5d5e)](https://b.hatena.ne.jp/entry/https://note.com/serima/n/n1a83526c5d5e)
 <!--[END POSTS]-->
+
+Read more on 
+![](platform_icons/zenn.png) [Zenn](https://zenn.dev/serima) / 
+![](platform_icons/note.png) [note](https://note.com/serima) /
+![](platform_icons/speakerdeck.png) [Speakerdeck](https://speakerdeck.com/serima) /
+![](platform_icons/qiita.png) [Qiita](https://qiita.com/serima)
+
+
 # Stats
 ![serima's GitHub stats](https://github-readme-stats.vercel.app/api?username=serima&count_private=true&theme=dracula&show_icons=true)
 
