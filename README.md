@@ -1,3 +1,13 @@
+# Hi there 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=serima&count_private=true&theme=dracula&show_icons=true" />
+
+[https://serima.co/](https://serima.co/)
+
+- I am the engineering manager to maximize the results of the development team.
+- I am also a DevOps lover and like to maintain release pipelines including CI/CD.
+- I’m currently writing tech blogs on [Zenn](https://zenn.dev/serima) (Japanese), [dev.to](https://dev.to/serima) (English).
+
 # Recent posts
 
 <!--[START POSTS]-->
@@ -15,8 +25,3 @@ Read more on
 ![](platform_icons/note.png) [note](https://note.com/serima) /
 ![](platform_icons/speakerdeck.png) [Speakerdeck](https://speakerdeck.com/serima) /
 ![](platform_icons/qiita.png) [Qiita](https://qiita.com/serima)
-
-
-# Stats
-![serima's GitHub stats](https://github-readme-stats.vercel.app/api?username=serima&count_private=true&theme=dracula&show_icons=true)
-
