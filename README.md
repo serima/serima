@@ -4,7 +4,7 @@
 
 [https://serima.co/](https://serima.co/)
 
-- I am the engineering manager to maximize the results of the development team.
+- I am the HRBP(Human Resource Business Partner) to maximize the results of the development team.
 - I am also a DevOps lover and like to maintain release pipelines including CI/CD.
 - I’m currently writing tech blogs on [Zenn](https://zenn.dev/serima) (Japanese), [dev.to](https://dev.to/serima) (English).
 
