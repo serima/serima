@@ -5,7 +5,7 @@
 [https://serima.co/](https://serima.co/)
 
 - Work in Engineering Office at Japanese compounding startup LayerX
-- Also a xOps (includes DevOps) lover and like to maintain release pipelines including CI/CD.
+- Also xOps (includes DevOps) lover and like to maintain release pipelines including CI/CD.
 - Currently writing tech blogs on [Zenn](https://zenn.dev/serima) (Japanese), [dev.to](https://dev.to/serima) (English) and [Company's Engineering Blog](https://tech.layerx.co.jp).
 
 # Recent posts
