@@ -46,6 +46,18 @@ foreach ($speakerdeck->entry as $entry) {
     ];
 }
 
+// LayerX Engineer Blog(tech.layerx.co.jp)
+$lxblog = simplexml_load_string(file_get_contents('https://tech.layerx.co.jp/rss/author/serimaryo'));
+foreach ($lxblog->channel->item as $item) {
+    $posts[]  = [
+        'title' => $item->title,
+        'date' => date('Y-m-d H:i:s', strtotime($item->pubDate)),
+        'type' => 'note',
+        'url' => $item->link,
+    ];
+}
+
+
 $sort_arr = array_map("strtotime", array_column($posts, "date"));
 array_multisort($sort_arr, SORT_DESC, $posts);
 
