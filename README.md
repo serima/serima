@@ -4,9 +4,9 @@
 
 [https://serima.co/](https://serima.co/)
 
-- I am the HRBP(Human Resource Business Partner) to maximize the results of the development team.
-- I am also a DevOps lover and like to maintain release pipelines including CI/CD.
-- I’m currently writing tech blogs on [Zenn](https://zenn.dev/serima) (Japanese), [dev.to](https://dev.to/serima) (English).
+- Work in Engineering Office at Japanese compounding startup LayerX
+- Also a xOps (includes DevOps) lover and like to maintain release pipelines including CI/CD.
+- Currently writing tech blogs on [Zenn](https://zenn.dev/serima) (Japanese), [dev.to](https://dev.to/serima) (English) and [Company's Engineering Blog](https://tech.layerx.co.jp).
 
 # Recent posts
 
@@ -31,4 +31,5 @@ Read more on
 ![](platform_icons/zenn.png) [Zenn](https://zenn.dev/serima) / 
 ![](platform_icons/note.png) [note](https://note.com/serima) /
 ![](platform_icons/speakerdeck.png) [Speakerdeck](https://speakerdeck.com/serima) /
-![](platform_icons/qiita.png) [Qiita](https://qiita.com/serima)
+![](platform_icons/qiita.png) [Qiita](https://qiita.com/serima) /
+![](platform_icons/lxblog.png) [LayerX Engineering Blog](https://tech.layerx.co.jp)
