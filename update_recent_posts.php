@@ -52,7 +52,7 @@ foreach ($lxblog->channel->item as $item) {
     $posts[]  = [
         'title' => $item->title,
         'date' => date('Y-m-d H:i:s', strtotime($item->pubDate)),
-        'type' => 'note',
+        'type' => 'lxblog',
         'url' => $item->link,
     ];
 }
@@ -63,7 +63,7 @@ array_multisort($sort_arr, SORT_DESC, $posts);
 
 $dist_md = '';
 
-foreach (array_splice($posts, 0, 7) as $post) {
+foreach (array_splice($posts, 0, 14) as $post) {
     $dist_md .= "- ![](platform_icons/${post['type']}.png) [${post['title']}](${post['url']}) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/${post['url']})](https://b.hatena.ne.jp/entry/${post['url']})\n";
 }
 
