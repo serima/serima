@@ -11,6 +11,7 @@
 # Recent posts
 
 <!--[START POSTS]-->
+- <img src="platform_icons/speakerdeck.png" width="16"> [採用は全員で | Chuo TECH #1](https://speakerdeck.com/serima/cai-yong-haquan-yuan-de) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://speakerdeck.com/serima/cai-yong-haquan-yuan-de)](https://b.hatena.ne.jp/entry/https://speakerdeck.com/serima/cai-yong-haquan-yuan-de)
 - <img src="platform_icons/note.png" width="16"> [「機械学習に隣接するソフトウェアエンジニアリングの魅力」イベント後記：共催イベントにおけるテーマ設定のウラガワ](https://note.com/serima/n/n861455b83901) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://note.com/serima/n/n861455b83901)](https://b.hatena.ne.jp/entry/https://note.com/serima/n/n861455b83901)
 - <img src="platform_icons/note.png" width="16"> [全体最適を諦めない、バクラクのマネージャーオフサイトを実施しました](https://note.com/serima/n/n111d3ce30e9a) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://note.com/serima/n/n111d3ce30e9a)](https://b.hatena.ne.jp/entry/https://note.com/serima/n/n111d3ce30e9a)
 - <img src="platform_icons/lxblog.png" width="16"> [LayerXの発信の"のびしろ"とCasual Nightのウラガワの話 #LayerXテックアドカレ](https://tech.layerx.co.jp/entry/2023/11/27/192336) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2023/11/27/192336)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2023/11/27/192336)
@@ -24,7 +25,6 @@
 - <img src="platform_icons/lxblog.png" width="16"> [Go Conference Online 2022 Spring に Silver プランにて協賛します](https://tech.layerx.co.jp/entry/2022/04/05/184836) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2022/04/05/184836)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2022/04/05/184836)
 - <img src="platform_icons/note.png" width="16"> [EMとHRは地続きだった。エンジニア出身の私がLayerXのHRに向き合い感じていること](https://note.com/serima/n/n9b33a4420936) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://note.com/serima/n/n9b33a4420936)](https://b.hatena.ne.jp/entry/https://note.com/serima/n/n9b33a4420936)
 - <img src="platform_icons/note.png" width="16"> [エンジニアが LayerX へ人事として入社しました](https://note.com/serima/n/naede81a30f8f) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://note.com/serima/n/naede81a30f8f)](https://b.hatena.ne.jp/entry/https://note.com/serima/n/naede81a30f8f)
-- <img src="platform_icons/zenn.png" width="16"> [テックリードの役割をシンプルに図解する](https://zenn.dev/serima/articles/811c902cb157b2a8627f) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://zenn.dev/serima/articles/811c902cb157b2a8627f)](https://b.hatena.ne.jp/entry/https://zenn.dev/serima/articles/811c902cb157b2a8627f)
 <!--[END POSTS]-->
 
 Read more on 
