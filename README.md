@@ -11,6 +11,7 @@
 # Recent posts
 
 <!--[START POSTS]-->
+- <img src="platform_icons/lxblog.png" width="16"> [LayerXは未踏会議2024 MEET DAYにて登壇・ブース出展します](https://tech.layerx.co.jp/entry/2024/03/09/114908) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2024/03/09/114908)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2024/03/09/114908)
 - <img src="platform_icons/lxblog.png" width="16"> [LayerXはDevelopers Summit 2024にゴールドスポンサー＆ブーススポンサーとして協賛します](https://tech.layerx.co.jp/entry/2024/02/14/183709) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2024/02/14/183709)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2024/02/14/183709)
 - <img src="platform_icons/note.png" width="16"> [YAPC::Hiroshima 2024 参加記録と感謝祭 #yapcjapan](https://note.com/serima/n/nd4b9b23ea42f) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://note.com/serima/n/nd4b9b23ea42f)](https://b.hatena.ne.jp/entry/https://note.com/serima/n/nd4b9b23ea42f)
 - <img src="platform_icons/lxblog.png" width="16"> [LayerXはYAPC::Hiroshima 2024にプラチナスポンサー＆学生支援スポンサーとして協賛します](https://tech.layerx.co.jp/entry/2024/02/07/132911) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2024/02/07/132911)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2024/02/07/132911)
@@ -24,7 +25,6 @@
 - <img src="platform_icons/lxblog.png" width="16"> [LayerX バクラクのプロダクトチーム・アーキテクチャの現在地点（スライドまとめ）](https://tech.layerx.co.jp/entry/2022/11/22/170338) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2022/11/22/170338)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2022/11/22/170338)
 - <img src="platform_icons/note.png" width="16"> [3人目の子どもが産まれ、育休を取得しています](https://note.com/serima/n/nfed27d04e438) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://note.com/serima/n/nfed27d04e438)](https://b.hatena.ne.jp/entry/https://note.com/serima/n/nfed27d04e438)
 - <img src="platform_icons/lxblog.png" width="16"> [創業4年のスタートアップが #技育博 に参加して感じてもらいたいこと](https://tech.layerx.co.jp/entry/geek-haku-2022) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/geek-haku-2022)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/geek-haku-2022)
-- <img src="platform_icons/note.png" width="16"> [エンジニア出身HRの私がカジュアル面談に臨むスタンス](https://note.com/serima/n/n00f578b49efe) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://note.com/serima/n/n00f578b49efe)](https://b.hatena.ne.jp/entry/https://note.com/serima/n/n00f578b49efe)
 <!--[END POSTS]-->
 
 Read more on 
