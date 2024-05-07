@@ -11,6 +11,7 @@
 # Recent posts
 
 <!--[START POSTS]-->
+- <img src="platform_icons/note.png" width="16"> [なぜ他社さんのインターンシップの情報も積極的にシェアするのか](https://note.com/serima/n/n7b44a080607d) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://note.com/serima/n/n7b44a080607d)](https://b.hatena.ne.jp/entry/https://note.com/serima/n/n7b44a080607d)
 - <img src="platform_icons/speakerdeck.png" width="16"> [技術広報の集い #3 Lightning Talk - LayerX](https://speakerdeck.com/serima/ji-shu-guang-bao-noji-i-number-3-lightning-talk-layerx) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://speakerdeck.com/serima/ji-shu-guang-bao-noji-i-number-3-lightning-talk-layerx)](https://b.hatena.ne.jp/entry/https://speakerdeck.com/serima/ji-shu-guang-bao-noji-i-number-3-lightning-talk-layerx)
 - <img src="platform_icons/lxblog.png" width="16"> [Developers Summit 2024 #devsumi 協賛・登壇レポート](https://tech.layerx.co.jp/entry/2024/03/25/104404) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2024/03/25/104404)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2024/03/25/104404)
 - <img src="platform_icons/lxblog.png" width="16"> [LayerXは未踏会議2024 MEET DAYにて登壇・ブース出展します](https://tech.layerx.co.jp/entry/2024/03/09/114908) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2024/03/09/114908)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2024/03/09/114908)
@@ -24,7 +25,6 @@
 - <img src="platform_icons/lxblog.png" width="16"> [LayerXの発信の"のびしろ"とCasual Nightのウラガワの話 #LayerXテックアドカレ](https://tech.layerx.co.jp/entry/2023/11/27/192336) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2023/11/27/192336)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2023/11/27/192336)
 - <img src="platform_icons/lxblog.png" width="16"> [岩瀬さんによるマネジメント＆リーダーシップ研修を実施しました](https://tech.layerx.co.jp/entry/2023/09/14/152231) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2023/09/14/152231)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2023/09/14/152231)
 - <img src="platform_icons/note.png" width="16"> [xOpsは「役割機能」から「企業文化」の時代へ](https://note.com/serima/n/n8758466697b1) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://note.com/serima/n/n8758466697b1)](https://b.hatena.ne.jp/entry/https://note.com/serima/n/n8758466697b1)
-- <img src="platform_icons/lxblog.png" width="16"> [LayerX バクラクのプロダクトチーム・アーキテクチャの現在地点（スライドまとめ）](https://tech.layerx.co.jp/entry/2022/11/22/170338) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2022/11/22/170338)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2022/11/22/170338)
 <!--[END POSTS]-->
 
 Read more on 
