@@ -11,6 +11,7 @@
 # Recent posts
 
 <!--[START POSTS]-->
+- <img src="platform_icons/lxblog.png" width="16"> [EMConf JP 2025にSpecial Sponsorsとして協賛します #emconf_jp](https://tech.layerx.co.jp/entry/2025/02/26/174859) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2025/02/26/174859)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2025/02/26/174859)
 - <img src="platform_icons/note.png" width="16"> [ハイブリッド開催にこだわるLayerXの技術イベント](https://note.com/serima/n/n8ee747b10362) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://note.com/serima/n/n8ee747b10362)](https://b.hatena.ne.jp/entry/https://note.com/serima/n/n8ee747b10362)
 - <img src="platform_icons/note.png" width="16"> [人間は世界との「インターフェース」になる](https://note.com/serima/n/nd0d923d5f994) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://note.com/serima/n/nd0d923d5f994)](https://b.hatena.ne.jp/entry/https://note.com/serima/n/nd0d923d5f994)
 - <img src="platform_icons/lxblog.png" width="16"> [バクラク事業部の「エンジニア共有会」とは？持続可能な運営と文化醸成の工夫 #LayerXテックアドカレ](https://tech.layerx.co.jp/entry/2024/12/01/145303) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2024/12/01/145303)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2024/12/01/145303)
@@ -24,7 +25,6 @@
 - <img src="platform_icons/note.png" width="16"> [なぜ他社さんのインターンシップの情報も積極的にシェアするのか](https://note.com/serima/n/n7b44a080607d) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://note.com/serima/n/n7b44a080607d)](https://b.hatena.ne.jp/entry/https://note.com/serima/n/n7b44a080607d)
 - <img src="platform_icons/speakerdeck.png" width="16"> [技術広報の集い #3 Lightning Talk - LayerX](https://speakerdeck.com/serima/ji-shu-guang-bao-noji-i-number-3-lightning-talk-layerx) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://speakerdeck.com/serima/ji-shu-guang-bao-noji-i-number-3-lightning-talk-layerx)](https://b.hatena.ne.jp/entry/https://speakerdeck.com/serima/ji-shu-guang-bao-noji-i-number-3-lightning-talk-layerx)
 - <img src="platform_icons/lxblog.png" width="16"> [Developers Summit 2024 #devsumi 協賛・登壇レポート](https://tech.layerx.co.jp/entry/2024/03/25/104404) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2024/03/25/104404)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2024/03/25/104404)
-- <img src="platform_icons/lxblog.png" width="16"> [LayerXは未踏会議2024 MEET DAYにて登壇・ブース出展します](https://tech.layerx.co.jp/entry/2024/03/09/114908) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2024/03/09/114908)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2024/03/09/114908)
 <!--[END POSTS]-->
 
 Read more on 
