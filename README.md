@@ -11,6 +11,7 @@
 # Recent posts
 
 <!--[START POSTS]-->
+- <img src="platform_icons/lxblog.png" width="16"> [開発生産性カンファレンス2025にゴールドスポンサーとして協賛します & 1名登壇します #開発生産性con_findy](https://tech.layerx.co.jp/entry/2025/07/03/070025) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2025/07/03/070025)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2025/07/03/070025)
 - <img src="platform_icons/lxblog.png" width="16"> [AI活用を加速するバクラクカード：Claude Max導入の舞台裏](https://tech.layerx.co.jp/entry/2025/06/05/161631) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2025/06/05/161631)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2025/06/05/161631)
 - <img src="platform_icons/lxblog.png" width="16"> [AI Coding Meetup #1 を開催しました #aicoding](https://tech.layerx.co.jp/entry/2025/04/10/172743) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2025/04/10/172743)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2025/04/10/172743)
 - <img src="platform_icons/note.png" width="16"> [LLM時代に、それでもLayerXで働き続ける理由 #日めくりLayerX](https://note.com/serima/n/n99d613e23832) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://note.com/serima/n/n99d613e23832)](https://b.hatena.ne.jp/entry/https://note.com/serima/n/n99d613e23832)
@@ -24,7 +25,6 @@
 - <img src="platform_icons/note.png" width="16"> [【参加レポ】VPoEの視点で見る組織の進化 〜組織変革とグローバル連携、次世代リーダー育成の戦略〜 #VPoE_Talk](https://note.com/serima/n/n2a60e4729f24) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://note.com/serima/n/n2a60e4729f24)](https://b.hatena.ne.jp/entry/https://note.com/serima/n/n2a60e4729f24)
 - <img src="platform_icons/lxblog.png" width="16"> [LayerXはYAPC::Hakodate 2024にプラチナスポンサー＆学生支援スポンサーとして協賛します](https://tech.layerx.co.jp/entry/2024/10/04/062704) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2024/10/04/062704)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2024/10/04/062704)
 - <img src="platform_icons/lxblog.png" width="16"> [開発生産性Conference 2024にシルバースポンサーとして協賛 & 1名登壇します](https://tech.layerx.co.jp/entry/2024/06/27/080000) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2024/06/27/080000)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2024/06/27/080000)
-- <img src="platform_icons/lxblog.png" width="16"> [Go Conference 2024 に Bronze スポンサーとして協賛 & 1名登壇します #gocon](https://tech.layerx.co.jp/entry/2024/06/07/114918) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2024/06/07/114918)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2024/06/07/114918)
 <!--[END POSTS]-->
 
 Read more on 
