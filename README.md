@@ -11,6 +11,7 @@
 # Recent posts
 
 <!--[START POSTS]-->
+- <img src="platform_icons/lxblog.png" width="16"> [Developer eXperience AWARD 2025で5位を受賞しました](https://tech.layerx.co.jp/entry/developer-experience-award-2025) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/developer-experience-award-2025)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/developer-experience-award-2025)
 - <img src="platform_icons/lxblog.png" width="16"> [生成AIカンファレンス2025にゴールドスポンサーとして協賛します #gen_ai_conf](https://tech.layerx.co.jp/entry/2025/07/11/074012) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2025/07/11/074012)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2025/07/11/074012)
 - <img src="platform_icons/lxblog.png" width="16"> [開発生産性カンファレンス2025にゴールドスポンサーとして協賛します & 1名登壇します #開発生産性con_findy](https://tech.layerx.co.jp/entry/2025/07/03/070025) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2025/07/03/070025)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2025/07/03/070025)
 - <img src="platform_icons/lxblog.png" width="16"> [AI活用を加速するバクラクカード：Claude Max導入の舞台裏](https://tech.layerx.co.jp/entry/2025/06/05/161631) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2025/06/05/161631)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2025/06/05/161631)
@@ -24,7 +25,6 @@
 - <img src="platform_icons/lxblog.png" width="16"> [JSConf JP 2024にPremium Sponsorとして協賛します & 2名登壇します！ #jsconfjp](https://tech.layerx.co.jp/entry/2024/11/21/091008) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2024/11/21/091008)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2024/11/21/091008)
 - <img src="platform_icons/lxblog.png" width="16"> [7夜連続で、技術イベントのアーカイブ動画を公開します](https://tech.layerx.co.jp/entry/2024/11/20/155038) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2024/11/20/155038)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2024/11/20/155038)
 - <img src="platform_icons/note.png" width="16"> [【参加レポ】VPoEの視点で見る組織の進化 〜組織変革とグローバル連携、次世代リーダー育成の戦略〜 #VPoE_Talk](https://note.com/serima/n/n2a60e4729f24) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://note.com/serima/n/n2a60e4729f24)](https://b.hatena.ne.jp/entry/https://note.com/serima/n/n2a60e4729f24)
-- <img src="platform_icons/lxblog.png" width="16"> [LayerXはYAPC::Hakodate 2024にプラチナスポンサー＆学生支援スポンサーとして協賛します](https://tech.layerx.co.jp/entry/2024/10/04/062704) [![はてなブックマーク数](https://b.hatena.ne.jp/entry/image/https://tech.layerx.co.jp/entry/2024/10/04/062704)](https://b.hatena.ne.jp/entry/https://tech.layerx.co.jp/entry/2024/10/04/062704)
 <!--[END POSTS]-->
 
 Read more on 
