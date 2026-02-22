@@ -2,14 +2,16 @@ name: Posts Updater
 on:
   push:
   schedule:
-    - cron:  '* 0 * * *'
+    - cron:  '0 0 * * *'
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
-        uses: actions/checkout@master
+        uses: actions/checkout@v4
       - name: git setting
         run: |
           git config --local user.email "j02521@gmail.com"
@@ -18,5 +20,5 @@ jobs:
       - name: git commit
         run: |
           git add README.md
-          git commit -m "update posts"
+          git diff --staged --quiet || git commit -m "update posts"
           git push origin main
